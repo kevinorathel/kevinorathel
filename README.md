@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Joseph</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [YapApp](https://kevinorathel.github.io/YapApp-Frontend/)
+- 🔭 I’m currently working on [YapApp](https://yap-app-seven.vercel.app/)
 
 - 🌱 I’m currently learning **Angular and System Design**
 

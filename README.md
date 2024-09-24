@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [YapApp](https://yap-app-seven.vercel.app/)
 
-- 🌱 I’m currently learning **Frontend and System Design**
+- 🌱 I’m currently pursuing a **Masters in Computer Science**
 
 - 💬 Ask me about **Java, Springboot, SQL**
 
